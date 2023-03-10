@@ -1,2 +1,2 @@
 # Flight-Ticket-Manage
-ava to manage flight ticket information
+Java to manage flight ticket information
