@@ -1,2 +1,2 @@
 # Flight-Ticket-Manage
-Java to manage flight ticket information
+Manage flight ticket information code by Python
